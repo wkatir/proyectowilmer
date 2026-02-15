@@ -60,6 +60,7 @@ const Content1 = ({ className }: Content1Props) => {
                 Software Developer
               </h1>
               <p>Add new to commit to apply some changes about the learning of git hub</p>
+              <p>New paragrafh</p>
            </div> 
           </div>
         </div>
