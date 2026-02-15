@@ -1,3 +1,5 @@
+import { Footer2 } from '@/components/Footer'
+import Student from '@/components/Student'
 import { createFileRoute } from '@tanstack/react-router'
 
 export const Route = createFileRoute('/')({
@@ -6,8 +8,9 @@ export const Route = createFileRoute('/')({
 
 function Index() {
   return (
-    <div className="p-2">
-      <h3>Welcome Home!</h3>
+    <div>
+    <Student></Student>
+    <Footer2></Footer2>
     </div>
   )
 }
