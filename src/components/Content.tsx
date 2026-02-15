@@ -59,7 +59,7 @@ const Content1 = ({ className }: Content1Props) => {
               <h1 className="mt-3 text-3xl font-extrabold">
                 Software Developer
               </h1>
-              <p>Add new lines</p>
+              <p>Add new to commit</p>
            </div> 
           </div>
         </div>
