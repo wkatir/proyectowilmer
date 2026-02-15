@@ -67,7 +67,7 @@ const Content1 = ({ className }: Content1Props) => {
         <div className="relative grid-cols-3 gap-20 lg:grid">
           <div className="lg:col-span-2">
             <div>
-              <Badge variant="outline">Kingdom Tales</Badge>
+              <Badge variant="outline">Wilmer Salazar</Badge>
               <h1 className="mt-3 text-3xl font-extrabold">
                 The Great Joke Tax
               </h1>
