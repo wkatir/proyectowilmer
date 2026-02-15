@@ -1,17 +1,5 @@
-"use client";
-
-import {
-  AlignLeft,
-  GalleryVerticalEnd,
-  Lightbulb,
-  ListChecks,
-  RefreshCcw,
-} from "lucide-react";
 import { useEffect, useRef, useState } from "react";
-
 import { cn } from "@/lib/utils";
-
-import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
 import { Badge } from "@/components/ui/badge";
 
 interface Content1Props {
@@ -71,6 +59,7 @@ const Content1 = ({ className }: Content1Props) => {
               <h1 className="mt-3 text-3xl font-extrabold">
                 Software Developer
               </h1>
+              <p>Add new lines</p>
            </div> 
           </div>
         </div>
