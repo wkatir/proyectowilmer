@@ -1,6 +1,6 @@
 const Studen = () => {
   return (
-    <div>From the another branch called carpeta1</div>
+    <div>Wilmer Salazar</div>
   )
 }
 
